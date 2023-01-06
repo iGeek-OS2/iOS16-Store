@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.straight-tamago.NoHomeBar</string>
+            <string>com.meBar.pm</string>
             <key>bundle-version</key>
             <string>1.0.0</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>NoHomeBar</string>
+            <string>Respring</string>
         </dict>
     </dict>
 </array>

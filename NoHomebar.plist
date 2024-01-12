@@ -11,19 +11,20 @@
                 <key>kind</key>
                 <string>software-package</string>
                 <key>url</key>
-                <string>https://github.com/iGeek-OS2/iOS16-Store/raw/main/NoHomeBar_0.5_1672974202.ipa</string>
+                <string>https://downloadx.getuploader.com/g/65a0d2be-5d54-4b4d-9004-051ca010e467/1%7Csample/18057/sample_18057.ipa</string>
             </dict>
         </array>
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.straight-tamago.NoHomeBar</string>
+            <string>com.fuck.NoHomeBar</string>
             <key>bundle-version</key>
             <string>1.0.0</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>NoHomeBar</string>
+            <string>Delta (DS Emulator)
+            </string>
         </dict>
     </dict>
 </array>
